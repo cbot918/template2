@@ -109,6 +109,10 @@
     # 終於有鎖頭受保護啦
     ```
 
+## 延伸閱讀:
+
+[how-to-secure-nginx-with-let-s-encrypt-on-ubuntu](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-20-04)
+
 
 ## 後記：
 
