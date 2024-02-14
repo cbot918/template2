@@ -109,8 +109,12 @@
     # 終於有鎖頭受保護啦
     ```
 
-## 延伸閱讀:
+## 參考:
+[GoDaddy 域名 + Linode 主機商 + Https 憑證 + 自動更新](https://tasb00429.medium.com/godaddy-%E5%9F%9F%E5%90%8D-linode-%E4%B8%BB%E6%A9%9F%E5%95%86-https-%E6%86%91%E8%AD%89-3c2273189725)
+[Connect a Domain to a Linode Server](https://www.youtube.com/watch?v=mKfx4ryuMtY)
 
+
+## 延伸閱讀:
 [how-to-secure-nginx-with-let-s-encrypt-on-ubuntu](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-20-04)
 
 
