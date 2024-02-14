@@ -25,7 +25,7 @@ func server(port string) {
 
 	// Register a handler function to the new mux
 	mux.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
-		// fmt.Fprintf(w, "Hello from server: %s\n", port)
+		fmt.Fprintf(w, "Hello from server: %s\n", port)
 	})
 
 	fmt.Printf("Listening on %s\n", port)
