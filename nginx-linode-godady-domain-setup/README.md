@@ -56,7 +56,7 @@
 
     5.1 回到機器內，/etc/nginx
 
-    5.2 在 /etc/nginx/sites-available，加入 `mytest777.com` 及 `api.mytest777.com` 這兩個檔案，檔名只是好管理，重點在檔案內容，兩行註解想懂，在想一下 proxy server 是監聽80 port，大概關就很明朗了
+    5.2 在 /etc/nginx/sites-available，加入 `mytest777.com` 及 `api.mytest777.com` 這兩個檔案，檔名只是好管理，重點在檔案內容，兩行註解想懂，在想一下 proxy server 是監聽80 port，觀念就會比較清楚
 
 
 
