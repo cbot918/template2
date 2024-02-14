@@ -1,6 +1,6 @@
 ## 買 domain 加 nginx proxy 加 綁定HTTPS 流程
 
-適用: 對開發有基礎的jr以上，0基礎的話會不少查資料試誤
+適用: 對相關名詞要有點熟悉感，不然會不少查資料試誤
 
 ## 用到的技術: 
 - [godaddy](https://tw.godaddy.com/) ( 買 domain，需費用，可以找一下有很便宜的，第一年一兩百那種 )
