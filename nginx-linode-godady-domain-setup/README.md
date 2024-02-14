@@ -66,6 +66,7 @@
 
         sudo ln -s /etc/nginx/sites-available/api.mytest777.com /etc/nginx/sites-enabled/
     ```
+    然後我會把 sites-enabled 裡面的 default 刪掉，因為自己實作的時候，這個檔案有影響到結果，刪掉後結果才會是預期
 
     5.4 先機器內做個測試
     ```bash
