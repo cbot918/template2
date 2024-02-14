@@ -110,6 +110,7 @@
     ```
 
 ## 參考:
+[Ubuntu：安裝 Nginx 做反向代理（Reverse Proxy）設定教學](https://mnya.tw/cc/word/1921.html)
 [GoDaddy 域名 + Linode 主機商 + Https 憑證 + 自動更新](https://tasb00429.medium.com/godaddy-%E5%9F%9F%E5%90%8D-linode-%E4%B8%BB%E6%A9%9F%E5%95%86-https-%E6%86%91%E8%AD%89-3c2273189725)
 [Connect a Domain to a Linode Server](https://www.youtube.com/watch?v=mKfx4ryuMtY)
 [how to get free ssl](https://www.tutorialsteacher.com/https/get-free-ssl-certificate)
